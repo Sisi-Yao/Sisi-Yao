@@ -1,10 +1,10 @@
-### Hi, This is Sisi-[codeSTACKr][Website]
+### Hi, This is Sisi -👸🏻.
 
 ## I' m a graduated student from UTAS
-- I' m currently working on the HM IT Solution Sandybay
-- I' m learning programming
-- Today' goals: successfully create front page in my Github acc
-- Fun fact: I love to make cocktail
+- 🤙🤙🤙 I' m currently working on the HM IT Solution Sandybay
+- 🖥️ I' m learning programming
+- 💯 Today' goals: successfully create front page in my Github acc
+- 🍷 Fun fact: I love to make cocktail
 
 ### Connect with me:
 
@@ -21,9 +21,6 @@
 
 ---
 
-### Latest blog posts
-
-[Website]: https://codeSTACKr.com
 [Linkedin]: https://www.linkedin.com/in/xixi-yao-1b4b82203/
 
 
